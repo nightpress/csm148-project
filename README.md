@@ -3,7 +3,7 @@
 ### Team Members
 - Victoria Vu
 - Tejas Kamtam
-- Kyle
+- Kai (Kyle) Xu
 - Brendan Lao
 - Helen Feng
 
