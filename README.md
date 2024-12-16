@@ -7,6 +7,8 @@
 - Brendan Lao
 - Helen Feng
 
+<h3><a href="https://docs.google.com/document/d/11k2JYRMdhVmeJLy7B-2L4Xoix3M2xOz0fum01emW6EY/edit?usp=sharing">Final Report (in migration to this README)</a></h3>
+
 ---
 
 ## Project Overview
